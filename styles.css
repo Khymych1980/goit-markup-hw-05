@@ -512,8 +512,9 @@ body {
 	color: #757575;
 }
 
-/*instagram-twitter-facebook-linkedin*/
 
+
+/*instagram-twitter-facebook-linkedin*/
  .team-icon {
   display: flex;
   margin-bottom: 30px;
@@ -554,7 +555,6 @@ height: 20px;
 
 
 /*--5_Постоянные клиенты--*/
-
 .cliens-title {
 	font-weight: 700;
 	font-size: 36px;
@@ -593,8 +593,9 @@ height: 20px;
 	height: 60px;
 }
 
-/*--footer--*/
 
+
+/*--footer--*/
 .footer-section {
 	background-color: var(--hero-back-color);
 	padding-top: 60px;
@@ -654,9 +655,9 @@ height: 20px;
 	color: var(--accent-color);
 }
 
+
 /*--Page-Portfolio--*/
 /*--Button-Portfolio--*/
-
 .menu-btn-list {
 	list-style: none;
 	display: flex;
@@ -691,9 +692,7 @@ height: 20px;
 
 /*--Content-Portfolio--*/
 
-
 /* ОВЕРЛЕЙ ПОРТФОЛИО */
-
 .cart-thomb {
 	position: relative;
 	overflow: hidden;
@@ -781,7 +780,6 @@ height: 20px;
 
 
 /* Социальные сети футера */
-
 .footer-soc-icon {
 	margin-left: 70px;
 }
